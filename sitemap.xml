@@ -3,11 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hadoumune.github.io/categories/</loc>
+    <loc>https://hadoumune.github.io/other/</loc>
+    <lastmod>2020-01-05T20:57:52+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://hadoumune.github.io/</loc>
+    <lastmod>2020-01-05T20:57:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/other/privacypolicy/</loc>
+    <lastmod>2020-01-05T20:57:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/game/</loc>
+    <lastmod>2020-01-05T20:54:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/game/picaris/</loc>
+    <lastmod>2020-01-05T20:54:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/game/picton/</loc>
+    <lastmod>2020-01-05T20:53:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/ganme/</loc>
+    <lastmod>2020-01-05T20:52:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/ganme/picton/</loc>
+    <lastmod>2020-01-05T20:52:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/about/about/</loc>
+    <lastmod>2020-01-05T20:51:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/about/</loc>
+    <lastmod>2020-01-05T20:51:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/posts/</loc>
+    <lastmod>2020-01-05T20:19:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/posts/test/</loc>
+    <lastmod>2020-01-05T20:19:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hadoumune.github.io/categories/</loc>
   </url>
   
   <url>
